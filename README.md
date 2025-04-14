@@ -1,9 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Bruno Henrique e sou um Desenvolvedor Front-end!</h2>
 
 ###
-
-<h2 align="left">Olá 👋! Meu nome é Bruno Henrique e sou um Desenvolvedor Front-end!</h2>
-
 <div align="center">
   <!-- Versão otimizada das estatísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=brunuz7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
