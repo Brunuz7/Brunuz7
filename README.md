@@ -38,5 +38,4 @@
 </div>
 
 <br clear="both">
-![Snake animation](https://github.com/brunuz7/brunuz7/blob/output/snake.svg)
 <img src="https://raw.githubusercontent.com/brunuz7/brunuz7/output/snake.svg" width="100%" alt="Snake Game"/>
