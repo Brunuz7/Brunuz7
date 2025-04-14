@@ -2,9 +2,14 @@
 
 ###
 
+<h2 align="left">Olá 👋! Meu nome é Bruno Henrique e sou um Desenvolvedor Front-end!</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunuz7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunuz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=github-readme-stats" height="150" alt="languages graph"  />
+  <!-- Versão otimizada das estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=brunuz7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  
+  <!-- Versão alternativa das linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunuz7&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="165" />
 </div>
 
 ###
