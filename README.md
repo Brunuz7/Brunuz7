@@ -38,4 +38,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brunuz7/brunuz7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brunuz7/brunuz7/output/snake.svg" width="100%" alt="Snake Game"/>
