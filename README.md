@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brunuz7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   
   <!-- Versão alternativa das linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunuz7&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunuz7&hide_progress=true&theme=vision-friendly-dark&hide=html,css,scss&langs_count=6&exclude_repo=github-readme-stats" alt="Linguagens"/>
 </div>
 
 ###
