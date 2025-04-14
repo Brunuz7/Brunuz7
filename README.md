@@ -5,8 +5,7 @@
   <!-- Versão otimizada das estatísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=brunuz7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   
-  <!-- Versão alternativa das linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunuz7&hide_progress=true&theme=vision-friendly-dark&hide=html,css,scss&langs_count=6&exclude_repo=github-readme-stats" alt="Linguagens"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunuz7&hide=html,css,scss&layout=compact&theme=dracula&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,brunuz7" width="400"/>
 </div>
 
 ###
